@@ -13,18 +13,20 @@
     "resources": {
         "media": [
             {
+                "file": "images/light.png",
+                "name": "IMAGE_LIGHT",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/heavy.png",
+                "name": "IMAGE_HEAVY",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
                 "file": "images/sun.png",
                 "name": "IMAGE_SUN",
-                "type": "bitmap"
-            },
-            {
-                "file": "images/snow.png",
-                "name": "IMAGE_SNOW",
-                "type": "bitmap"
-            },
-            {
-                "file": "images/rain.png",
-                "name": "IMAGE_RAIN",
                 "type": "bitmap"
             },
             {

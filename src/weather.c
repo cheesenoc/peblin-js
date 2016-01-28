@@ -18,9 +18,9 @@ enum WeatherKey {
  
 static const uint32_t WEATHER_ICONS[] = {
   RESOURCE_ID_IMAGE_SUN, // 0
-  RESOURCE_ID_IMAGE_CLOUD, // 1
-  RESOURCE_ID_IMAGE_RAIN, // 2
-  RESOURCE_ID_IMAGE_SNOW // 3
+  RESOURCE_ID_IMAGE_LIGHT, // 1
+  RESOURCE_ID_IMAGE_HEAVY, // 2
+  RESOURCE_ID_IMAGE_CLOUD // 3
 };
 
 static void sync_error_callback(DictionaryResult dict_error, AppMessageResult app_message_error, void *context) {
