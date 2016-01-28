@@ -8,7 +8,7 @@
         "location"
     ],
     "companyName": "Dreamweb",
-    "longName": "PeblinJS",
+    "longName": "Sunbassadeur",
     "projectType": "native",
     "resources": {
         "media": [
@@ -37,7 +37,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "PeblinJS",
+    "shortName": "Sun",
     "targetPlatforms": [
         "aplite",
         "basalt",
